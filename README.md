@@ -64,8 +64,6 @@ To simplify learning, game screens undergo preprocessing:
 2. Resize to 80×80 pixels
 3. Stack 4 consecutive frames as input (80×80×4)
 
-<img src="https://github.com/user-attachments/assets/49e2726b-40e7-4578-9c90-6617784c2d0" width="2125" height="1177" alt="network">
-
 ### Neural Network Architecture
 
 The agent uses a convolutional neural network:
