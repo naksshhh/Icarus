@@ -119,8 +119,6 @@ if gpus:
 2. Mnih et al. "Playing Atari with Deep Reinforcement Learning." NIPS Deep Learning Workshop, 2013.
 3. Van Hasselt et al. "Deep Reinforcement Learning with Double Q-learning." AAAI, 2016.
 4. Schaul et al. "Prioritized Experience Replay." ICLR, 2016.
-5. 
-
 ### Made with ❤️ by
 
 [Shubham Agrawal](https://github.com/Shubham060772) |
