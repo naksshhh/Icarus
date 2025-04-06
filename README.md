@@ -123,12 +123,12 @@ if gpus:
 
 ### Made with ❤️ by
 
-[Shubham Agrawal](https://github.com/Shubham060772)
-[Aditya Sharma](https://github.com/Aditya-1735)
-[Bibhuti Jha](https://github.com/bibhuti-ssh)
-[Nakshatra Kanchan](https://github.com/Naksshhh)
-[Ayush Kumar Singh](https://github.com/ayush2996)
-[Kumar Anurag](https://github.com/Kumar-Anurag-4505)
+[Shubham Agrawal](https://github.com/Shubham060772) |
+[Aditya Sharma](https://github.com/Aditya-1735) |
+[Bibhuti Jha](https://github.com/bibhuti-ssh) |
+[Nakshatra Kanchan](https://github.com/Naksshhh) |
+[Ayush Kumar Singh](https://github.com/ayush2996) |
+[Kumar Anurag](https://github.com/Kumar-Anurag-4505) 
 
 
 _We build with passion, code with purpose._
