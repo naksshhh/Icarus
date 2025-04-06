@@ -1,6 +1,6 @@
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
-<img src="./images/flappy_bird_demp.gif" width="250">
+![DEMO](./assets/FlappyBird.gif)
 
 ## Overview
 This project implements the Deep Q-Learning algorithm based on established reinforcement learning principles and demonstrates its applicability to the well-known game Flappy Bird.
