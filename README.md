@@ -119,3 +119,18 @@ if gpus:
 2. Mnih et al. "Playing Atari with Deep Reinforcement Learning." NIPS Deep Learning Workshop, 2013.
 3. Van Hasselt et al. "Deep Reinforcement Learning with Double Q-learning." AAAI, 2016.
 4. Schaul et al. "Prioritized Experience Replay." ICLR, 2016.
+5. 
+
+### Made with ❤️ by
+
+[Shubham Agrawal](https://github.com/Shubham060772)
+[Aditya Sharma](https://github.com/Aditya-1735)
+[Bibhuti Jha](https://github.com/bibhuti-ssh)
+[Nakshatra Kanchan](https://github.com/Naksshhh)
+[Ayush Kumar Singh](https://github.com/ayush2996)
+[Kumar Anurag](https://github.com/Kumar-Anurag-4505)
+
+
+_We build with passion, code with purpose._
+
+> Feel free to reach out for collaboration, suggestions, or feedback!
