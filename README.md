@@ -7,7 +7,7 @@ This project implements the Deep Q-Learning algorithm based on established reinf
 
 ## Installation Dependencies:
 * Python 2.7 or 3
-* TensorFlow 0.7
+* TensorFlow ^2
 * pygame
 * OpenCV-Python
 * numpy
